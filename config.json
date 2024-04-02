@@ -1,0 +1,68 @@
+{
+  "token": "",
+  "api_id": 0,
+  "api_hash": "",
+  "start_msg": "Нежные и страстные, юные и опытные, застенчивые и искушенные...\nДайте волю своей фантазии, а мы гарантируем что без удовольствия вы не останетесь!",
+  "start_btns": [
+    "Услуги",
+    "Телеграм чат",
+    "Телеграм канал",
+    "Техподдержка"
+  ],
+  "start_rows": 2,
+  "support_msg": "Техподдержка:\nТелеграм - @Chpokuz_administrator\nПочта - tima_4774@mail.ru",
+  "support_btn": "Техподдержка",
+  "support_btn_text": [
+    "Телеграм",
+    "Почта"
+  ],
+  "support_url": [
+    "https://t.me/Chpokuz_administrator",
+    "mailto:tima_4774@mail.ru"
+  ],
+  "telegram_channel_msg": "Наш телеграм канал:",
+  "telegram_channel_btn": "Телеграм канал",
+  "telegram_channel_btn_text": "Перейти",
+  "telegram_channel_url": "https://t.me/uzpopka_chpokuz_tashkenta",
+  "telegram_chat_msg": "Наш телеграм чат:",
+  "telegram_chat_btn": "Телеграм чат",
+  "telegram_chat_btn_text": "Перейти",
+  "telegram_chat_url": "https://t.me/uzpopka_online_chat",
+  "services_msg": "Наши услуги",
+  "services_btns": [
+    "Назад",
+    "Проститутки",
+    "Транссексуалки",
+    "Массажистки",
+    "Парни для Дамы",
+    "Бюджетный",
+    "Сауны и гостиницы"
+  ],
+  "services_btn_text": "Услуги",
+  "services_rows": 2,
+  "services": [
+    "проститутки",
+    "транссексуалки",
+    "массажистки",
+    "парни для дамы",
+    "бюджетный",
+    "сауны и гостиницы"
+  ],
+  "services_eng": [
+    "prostitutki",
+    "transseksualki",
+    "massazhistki",
+    "parni",
+    "byudzhetnyj",
+    "sauny-i-gostinitsy"
+  ],
+  "services_ids": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "stop_watching_ads": "Прекратить просмотр анкет"
+}

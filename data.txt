@@ -1,0 +1,24 @@
+array (
+  'update_id' => 195638311,
+  'message' => 
+  array (
+    'message_id' => 47,
+    'from' => 
+    array (
+      'id' => 1810809634,
+      'is_bot' => 0,
+      'first_name' => 'd1n0',
+      'username' => 'ucermane0123456789',
+      'language_code' => 'ru',
+    ),
+    'chat' => 
+    array (
+      'id' => 1810809634,
+      'first_name' => 'd1n0',
+      'username' => 'ucermane0123456789',
+      'type' => 'private',
+    ),
+    'date' => 1690389409,
+    'text' => '<<<',
+  ),
+)
